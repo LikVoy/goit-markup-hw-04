@@ -123,6 +123,8 @@ img {
 
 
 
+
+
 /*header*/
 .main-nav {
     display: flex;
@@ -197,6 +199,7 @@ img {
 
 
 
+
 /*logo*/
 .logo {
     font-family: "Raleway", sans-serif;
@@ -233,6 +236,8 @@ address {
     display: flex;
     align-items: center;
 }
+
+
 
 
 
@@ -288,6 +293,8 @@ address {
     background-position: center;
     background-size: cover;
 }
+
+
 
 
 
@@ -388,6 +395,8 @@ address {
 
 
 
+
+
 /*work*/
 .flex-work {
     width: 370px;
@@ -406,6 +415,8 @@ address {
 .work-padding {
     padding-bottom: 94px;
 }
+
+
 
 
 
@@ -441,7 +452,9 @@ address {
     width: 270px;
     margin-right: 30px;
     margin-bottom: 30px;
-    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12),
+     0px 1px 1px rgba(0, 0, 0, 0.14),
+      0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
     background-color: var(--white-cl);
 }
@@ -487,6 +500,8 @@ address {
 
 
 
+
+
 /*clients*/
 .clients {
     padding-top: 94px;
@@ -520,6 +535,8 @@ address {
 .client-icons-link:hover {
     border-color: var(--accent-cl)
 }
+
+
 
 
 
@@ -610,6 +627,8 @@ address {
 
 
 
+
+
 /*main*/
     .portf-btn {
     font-weight: 500;
@@ -630,7 +649,9 @@ address {
 
 .portf-btn:hover,
 .portf-btn:focus {
-    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1),
+     0px 1px 2px rgba(0, 0, 0, 0.08),
+      0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 
 .main-button {
@@ -655,7 +676,9 @@ address {
 
 .flex-element:hover,
 .flex-element:focus {
-    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12),
+     0px 4px 4px rgba(0, 0, 0, 0.06),
+      1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
 .flex-element:nth-child(3n) {
